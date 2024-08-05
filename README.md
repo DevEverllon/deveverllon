@@ -4,7 +4,6 @@
 [![LinkIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linledin.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveverllon&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveverllon&hide_progress=true&theme=dark)
 
 ### Tecnologias aprendidas
