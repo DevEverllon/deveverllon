@@ -23,6 +23,3 @@
 - 🌟 Apaixonado por Robótica e Impressão 3D
 - 📚 Adepto da aprendizagem contínua
 - 🤝 Focado em trabalho em equipe
-
-### Contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:everllonsouza5@gmail.com)
